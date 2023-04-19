@@ -1,3 +1,5 @@
+Progetto scolastico in via di sviluppo utilizzando react
+
 # Getting Started
 
 You need to have Node.js installed on your computer.\
